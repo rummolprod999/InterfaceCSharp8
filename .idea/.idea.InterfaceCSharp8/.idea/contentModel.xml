@@ -8,6 +8,7 @@
     <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_InterfaceCSharp8.-663119906.00" t="ExcludeRecursive" />
     <e p="$USER_HOME$/.Rider2019.3/system/rust_expanded_macros/oRDrEpFY/expansions" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="InterfaceCSharp8.csproj" t="IncludeRecursive" />
       <e p="InterfaceCSharp8.sln" t="IncludeFlat" />
       <e p="Program.cs" t="Include" />
